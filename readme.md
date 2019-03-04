@@ -1,1 +1,1 @@
-repo for public website
+This website tracks some of the ideas/thoughts I am munching on.
